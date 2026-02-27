@@ -8,7 +8,21 @@ It includes lab exercises, experiments, and study materials during the semester.
 
 - [Main Study](#main-study)
 - [Tools](#tools)
-- [Results](#results)
+- [About](#about)
 
 ### Main Study
+- Histogram
+- Convolution,Correlation
+- Image Filtering
+- Edge Dectection
+- Segmentation
+- Region Labelling
+- Other (Morphological,Object Descriptors)
+
+### Tool 
+Using both Jupyter Notebook from Andaconda and Google Colab to display the lab excersises 
+
+### About
+> Course: Image Processing  
+> Format: Jupyter Notebook (.ipynb)
 
